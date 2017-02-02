@@ -1,0 +1,87 @@
+img{
+  border-style:groove;
+  border-width: 1px;
+  border-color:  #7070db;
+  border-radius: 4px;
+}
+tr{
+  border-top: 4px double #7070db;
+  border-left: 2px solid #7070db;
+  border-right: 2px solid #7070db;
+  max-width: 15%;
+  color: black;
+}
+th{
+  text-align: center;
+}
+#bannerLeft{
+  background-image: url(images/ocean.jpeg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 7%;
+  background-repeat:repeat-y;
+}
+#bannerRight{
+  background-image: url(images/ocean.jpeg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 7%;
+  background-repeat:repeat-y;
+}
+.blueBorder{
+  border-style:groove;
+  border-width: 4px;
+  border-color:#000066;
+  padding: 10px;
+  border-radius: 10px;
+}
+.blackBorderOne{
+  border-style:groove;
+  border-width: 4px;
+  border-color: #7070db;
+  padding: 10px;
+  border-radius: 10px;
+}
+.blackBorderTwo{
+  border-style:groove;
+  border-width: 4px;
+  border-color: #7070db;
+  padding: 10px;
+  border-radius: 10px;
+}
+.blackBorderSmall{
+  border-style: solid;
+  border-width: 2px;
+  border-color: #7070db;
+  border-radius: 4px;
+}
+.tableTitle{
+  font-size: 20px;
+  /*text-shadow: 1px 0px 3px #FFFF00;*/
+}
+.jumboBox{
+  background-color: #7070db;
+  border-bottom: 4px solid #330033;
+  border-top: 4px solid #330033;
+}
+.yellowText{
+  color: #ffff80;
+}
+.yellowBox{
+  background-color:  #ffff80;
+  color: black;
+}
+.yellowShadow{
+  text-shadow: 1px 0px 3px #ffff80;
+}
+.redText{
+  color: #ffe066;
+}
+.creamBox{
+  background-color: #ffffcc;
+  background-image: none;
+}
+.greyBox{
+  background-color: #80aaff;
+  color:black;
+}
